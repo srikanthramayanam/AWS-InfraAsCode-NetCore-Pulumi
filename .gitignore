@@ -1,0 +1,16 @@
+# Source : https://github.com/github/gitignore
+# Maven, Node, Python, Rails
+
+# Maven
+
+MyStack.Lambda/bin/
+MyStack.Lambda/obj/
+MyStack.Lambda.Tests/bin/
+MyStack.Lambda.Tests/obj/
+MyStack.Pulumi.IaC/bin/
+MyStack.Pulumi.IaC/obj/
+.git/
+.vs/
+
+# Ignore node_modules
+node_modules/
