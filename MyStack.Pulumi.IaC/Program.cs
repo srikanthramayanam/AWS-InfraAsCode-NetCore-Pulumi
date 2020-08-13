@@ -1,7 +1,10 @@
 ﻿using System.Threading.Tasks;
 using Pulumi;
 
-class Program
+namespace MyStack.Iac
 {
-    static Task<int> Main() => Deployment.RunAsync<MyStack>();
+    class Program
+    {
+        static Task<int> Main() => Deployment.RunAsync<S3LambdaStack>();
+    }
 }

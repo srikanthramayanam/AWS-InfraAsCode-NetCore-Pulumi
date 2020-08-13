@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyStack.Lambda", "MyStack.L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyStack.Lambda.Tests", "MyStack.Lambda.Tests\MyStack.Lambda.Tests.csproj", "{A68CB597-146F-4DC5-BC2C-703DF4A6C30D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStack.Pulumi.IaC.Tests", "MyStack.Pulumi.IaC.Tests\MyStack.Pulumi.IaC.Tests.csproj", "{89F16C97-DC5D-4ACB-B3AE-A243509A5C19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A68CB597-146F-4DC5-BC2C-703DF4A6C30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A68CB597-146F-4DC5-BC2C-703DF4A6C30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A68CB597-146F-4DC5-BC2C-703DF4A6C30D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89F16C97-DC5D-4ACB-B3AE-A243509A5C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F16C97-DC5D-4ACB-B3AE-A243509A5C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F16C97-DC5D-4ACB-B3AE-A243509A5C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F16C97-DC5D-4ACB-B3AE-A243509A5C19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,6 +9,8 @@ MyStack.Lambda.Tests/bin/
 MyStack.Lambda.Tests/obj/
 MyStack.Pulumi.IaC/bin/
 MyStack.Pulumi.IaC/obj/
+MyStack.Pulumi.IaC.Tests/bin/
+MyStack.Pulumi.IaC.Tests/obj/
 .git/
 .vs/
 
